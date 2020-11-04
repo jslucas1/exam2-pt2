@@ -1,0 +1,11 @@
+C:\Users\jslucas\source\repos\mis321\exam2\obj\Debug\netcoreapp3.1\exam2.csprojAssemblyReference.cache
+C:\Users\jslucas\source\repos\mis321\exam2\obj\Debug\netcoreapp3.1\exam2.AssemblyInfoInputs.cache
+C:\Users\jslucas\source\repos\mis321\exam2\obj\Debug\netcoreapp3.1\exam2.AssemblyInfo.cs
+C:\Users\jslucas\source\repos\mis321\exam2\bin\Debug\netcoreapp3.1\exam2.exe
+C:\Users\jslucas\source\repos\mis321\exam2\bin\Debug\netcoreapp3.1\exam2.deps.json
+C:\Users\jslucas\source\repos\mis321\exam2\bin\Debug\netcoreapp3.1\exam2.runtimeconfig.json
+C:\Users\jslucas\source\repos\mis321\exam2\bin\Debug\netcoreapp3.1\exam2.runtimeconfig.dev.json
+C:\Users\jslucas\source\repos\mis321\exam2\bin\Debug\netcoreapp3.1\exam2.dll
+C:\Users\jslucas\source\repos\mis321\exam2\bin\Debug\netcoreapp3.1\exam2.pdb
+C:\Users\jslucas\source\repos\mis321\exam2\obj\Debug\netcoreapp3.1\exam2.dll
+C:\Users\jslucas\source\repos\mis321\exam2\obj\Debug\netcoreapp3.1\exam2.pdb
